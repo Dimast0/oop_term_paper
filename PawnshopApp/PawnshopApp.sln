@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PawnshopApp", "PawnshopApp.csproj", "{40C11606-86EB-4E02-A5E3-D0673F5BA8BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "Library\BusinessLogic\BusinessLogic.csproj", "{9A181852-9D1D-44C7-B807-0E37B520C871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40C11606-86EB-4E02-A5E3-D0673F5BA8BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C11606-86EB-4E02-A5E3-D0673F5BA8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C11606-86EB-4E02-A5E3-D0673F5BA8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C11606-86EB-4E02-A5E3-D0673F5BA8BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A181852-9D1D-44C7-B807-0E37B520C871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A181852-9D1D-44C7-B807-0E37B520C871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A181852-9D1D-44C7-B807-0E37B520C871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A181852-9D1D-44C7-B807-0E37B520C871}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F28A1AB-E203-4FE6-B6CE-79E310021B89}
+	EndGlobalSection
+EndGlobal
